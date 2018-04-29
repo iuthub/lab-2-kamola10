@@ -1,9 +1,13 @@
 .general{
 	border: 5px solid green;
+	background-color: white; 
+	margin-left: 10vw;
+	margin-right: 10vw;
 }
 .header
 {
 	border: 5px solid red;
+
 }
 .motto
 {
@@ -11,11 +15,13 @@
 }
 span{border: 5px solid indigo;
  }
-.spatula
+.content
 {
 	border: 5px solid blue;
+	background-color: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px; 
 }
-.story
-{
-	border: 5px solid blue;
+body{
+	background: url("images/bg.jpg") center no-repeat;
 }
